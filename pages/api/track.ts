@@ -1,4 +1,4 @@
-// import { prisma } from "@/config/db";
+import { prisma } from "@/config/db";
 // export default async (req:any, res:any) => {
 //   if (req.method === "POST") {
 //     try {
